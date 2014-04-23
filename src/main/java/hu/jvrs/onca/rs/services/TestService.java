@@ -1,4 +1,4 @@
-package hu.jvrs.lion.rs.services;
+package hu.jvrs.onca.rs.services;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
